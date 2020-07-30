@@ -127,6 +127,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/203
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Bangla",Zee Bangla Cinema
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/667
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="Movies",HBO
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/124
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="Movies",Star Movies
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/151
 
