@@ -259,6 +259,9 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",Disney Junior 
 http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 group-title="Kids",CN HD+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Kids",Nick
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
@@ -281,6 +284,8 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 
 
+#EXTINF:0 group-title="Documentary",Discovery HD 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Documentary",National Geographic  
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
