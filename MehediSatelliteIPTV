@@ -237,7 +237,7 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",9XM
-
+http://tvserver.dflix.live:8082/48/index.m3u8?token=c3a20512fc57799f4372cae6c11de7d16236abd0-941b90fd428c12420deb9a976ab54ef1-1597305616-1597294816&remote=103.143.35.227
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
